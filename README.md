@@ -43,8 +43,11 @@ I am a third-year Computer Science (Artificial Intelligence) student at Swami Ke
 
 ### 📊 Stats
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexboy071429&show_icons=true&theme=dark)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexboy071429&show_icons=true&theme=dark)  [![GitHub Streak](https://github-readme-streak-stats-sand-xi.vercel.app?user=rexboy071429&theme=gotham&locale=hi&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-#
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexboy071429&layout=donut-vertical)](https://github.com/rexboy071429/github-readme-stats)
+![](https://leetcard.jacoblin.cool/Gauravpratapsinghh2002?ext=heatmap)
+
+
+
+
