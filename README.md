@@ -5,7 +5,7 @@
 I am a third-year Computer Science (Artificial Intelligence) student at Swami Keshvanand Institute of Technology in Jaipur. I have a strong passion for developing projects from the ground up, transforming concepts into practical solutions, and exploring the dynamic field of AI.
 
    <p align="left">
-      <a href="www.linkedin.com/in/gaurav-pratap-singh-550259237">
+      <a href="https://www.linkedin.com/in/gaurav-pratap-singh-550259237">
          <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&link=www.linkedin.com%2Fin%2Fgaurav-pratap-singh-550259237">
 
   
